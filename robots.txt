@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap:https://soccer-random-game.github.io/sitemap.xml
+Sitemap:https://xtrench-run.github.io/sitemap.xml
